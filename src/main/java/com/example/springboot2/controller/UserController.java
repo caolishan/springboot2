@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  *  前端控制器
  * </p>
  *
- * @author lishan123lishan*************22222222222222222233333333333333
- * @since 2018-08-17
- */
+ * @author lishan123lishan*************222222222222222222
 @Controller
 @RequestMapping("/user")
 public class UserController extends BaseController {

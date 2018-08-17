@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * </p>
  *
  * @author lishan123lishan*************222222222222222222
+ * */
 @Controller
 @RequestMapping("/user")
 public class UserController extends BaseController {
